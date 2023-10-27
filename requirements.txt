@@ -7,7 +7,6 @@ pandas>=0.8.1
 PyYAML>=5.1, !=5.4.*
 nevergrad<=0.4.2
 dicom2nifti
-medpy
 SimpleITK<2.1.0
 tqdm
 loguru
